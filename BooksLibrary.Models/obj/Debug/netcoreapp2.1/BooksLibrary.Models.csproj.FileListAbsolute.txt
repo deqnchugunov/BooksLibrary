@@ -1,8 +1,0 @@
-E:\Other\Workspace\ASP.NET Core\BooksLibrary\BooksLibrary.Models\bin\Debug\netcoreapp2.1\BooksLibrary.Models.deps.json
-E:\Other\Workspace\ASP.NET Core\BooksLibrary\BooksLibrary.Models\bin\Debug\netcoreapp2.1\BooksLibrary.Models.dll
-E:\Other\Workspace\ASP.NET Core\BooksLibrary\BooksLibrary.Models\bin\Debug\netcoreapp2.1\BooksLibrary.Models.pdb
-E:\Other\Workspace\ASP.NET Core\BooksLibrary\BooksLibrary.Models\obj\Debug\netcoreapp2.1\BooksLibrary.Models.csproj.CoreCompileInputs.cache
-E:\Other\Workspace\ASP.NET Core\BooksLibrary\BooksLibrary.Models\obj\Debug\netcoreapp2.1\BooksLibrary.Models.AssemblyInfoInputs.cache
-E:\Other\Workspace\ASP.NET Core\BooksLibrary\BooksLibrary.Models\obj\Debug\netcoreapp2.1\BooksLibrary.Models.AssemblyInfo.cs
-E:\Other\Workspace\ASP.NET Core\BooksLibrary\BooksLibrary.Models\obj\Debug\netcoreapp2.1\BooksLibrary.Models.dll
-E:\Other\Workspace\ASP.NET Core\BooksLibrary\BooksLibrary.Models\obj\Debug\netcoreapp2.1\BooksLibrary.Models.pdb
