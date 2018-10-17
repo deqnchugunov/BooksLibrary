@@ -1,0 +1,10 @@
+E:\Other\Workspace\ASP.NET Core\BooksLibrary\BooksLibrary.Data\bin\Debug\netcoreapp2.1\BooksLibrary.Data.deps.json
+E:\Other\Workspace\ASP.NET Core\BooksLibrary\BooksLibrary.Data\bin\Debug\netcoreapp2.1\BooksLibrary.Data.dll
+E:\Other\Workspace\ASP.NET Core\BooksLibrary\BooksLibrary.Data\obj\Debug\netcoreapp2.1\BooksLibrary.Data.csproj.CoreCompileInputs.cache
+E:\Other\Workspace\ASP.NET Core\BooksLibrary\BooksLibrary.Data\obj\Debug\netcoreapp2.1\BooksLibrary.Data.AssemblyInfoInputs.cache
+E:\Other\Workspace\ASP.NET Core\BooksLibrary\BooksLibrary.Data\obj\Debug\netcoreapp2.1\BooksLibrary.Data.AssemblyInfo.cs
+E:\Other\Workspace\ASP.NET Core\BooksLibrary\BooksLibrary.Data\bin\Debug\netcoreapp2.1\BooksLibrary.Data.runtimeconfig.json
+E:\Other\Workspace\ASP.NET Core\BooksLibrary\BooksLibrary.Data\bin\Debug\netcoreapp2.1\BooksLibrary.Data.runtimeconfig.dev.json
+E:\Other\Workspace\ASP.NET Core\BooksLibrary\BooksLibrary.Data\bin\Debug\netcoreapp2.1\BooksLibrary.Data.pdb
+E:\Other\Workspace\ASP.NET Core\BooksLibrary\BooksLibrary.Data\obj\Debug\netcoreapp2.1\BooksLibrary.Data.dll
+E:\Other\Workspace\ASP.NET Core\BooksLibrary\BooksLibrary.Data\obj\Debug\netcoreapp2.1\BooksLibrary.Data.pdb
